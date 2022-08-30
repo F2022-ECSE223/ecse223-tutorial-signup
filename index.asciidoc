@@ -1,0 +1,18 @@
+# Join the GitHub Organisation - W2022, ECSE223
+
+:github_organization_url: https://classroom.github.com/a/IIQDpHyg
+
+Steps for signing up for GitHub classroom:
+
+* Log in/Register on GitHub under https://github.com
+* Open link {github_organization_url}
+* Select your McGill ID from the list (there are multiple pages of IDs, see page selector at the bottom of the list), please **do not skip this step**
+
+image::resources/Signup/signup.png[signup]
+
+> NOTE: If your ID is missing for any reason, please contact the TAs immediately (during tutorial, or through discussion board on myCourses) so that we can add your id to the list.
+
+* Join team _AllStudents_
+
+image::resources/Signup/team.png[signup]
+
