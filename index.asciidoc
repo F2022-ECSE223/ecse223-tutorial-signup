@@ -1,4 +1,6 @@
-# Join the GitHub Organisation - W2022, ECSE223
+# Join the GitHub Organisation - F2022, ECSE223
+
+> Though the images below show Winter 2022, everything applies for Fall 2022
 
 :github_organization_url: https://classroom.github.com/a/IIQDpHyg
 
